@@ -63,7 +63,7 @@ apiService:
 
 ## Specify the secure port where metrics-server will be running
 ##
-securePort: 8443
+securePort: 80
 
 ## Extra arguments to pass to the metrics-server
 ## ref: https://github.com/kubernetes-incubator/metrics-server/blob/master/README.md#flags
